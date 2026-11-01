@@ -1,0 +1,14 @@
+
+```text
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Folder dan file lingkungan virtual (jika ada)
+venv/
+env/
+.env
+
+# Folder output hasil generate program (opsional, agar tidak ikut ter-commit)
+# output/

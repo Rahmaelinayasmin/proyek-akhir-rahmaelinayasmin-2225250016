@@ -1,0 +1,20 @@
+================================================
+                 LAPORAN HASIL ANALISIS
+================================================
+Total Siswa Valid : 10
+Rata-rata Kelas   : 78.80
+Jumlah Lulus      : 7
+Jumlah Remidi     : 3
+------------------------------------------------
+
+Daftar Status Siswa:
+- Ayu (Nilai: 85.0) -> Lulus
+- Budi (Nilai: 78.0) -> Lulus
+- Citra (Nilai: 90.0) -> Lulus
+- Eka (Nilai: 88.0) -> Lulus
+- Gita (Nilai: 95.0) -> Lulus
+- Hana (Nilai: 80.0) -> Lulus
+- Joko (Nilai: 75.0) -> Lulus
+- Deni (Nilai: 65.0) -> Remidi
+- Fajar (Nilai: 72.0) -> Remidi
+- Indra (Nilai: 60.0) -> Remidi
